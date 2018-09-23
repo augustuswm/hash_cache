@@ -1,0 +1,7 @@
+[package]
+name = "hash_cache"
+version = "0.1.0"
+authors = ["Augustus Mayo <gusmayo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
